@@ -1,0 +1,17 @@
+{
+    "name": "Techbox/TechboxWooMercadoLibre",
+    "description": "Integration plugin Mercado Libre and Woocommerce",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Carlos Alva Sandoval",
+            "email": "carlos.alva.sandoval@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
